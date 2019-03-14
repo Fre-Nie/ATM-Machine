@@ -1,0 +1,3 @@
+Palle -100 	Saldo: 200
+Palle 200kr Saldo: 400
+Palle -5000 	Saldo: -4600
